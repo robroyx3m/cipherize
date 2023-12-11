@@ -1,0 +1,3 @@
+android studio är fett hjälpsam
+att kopiera kod är svårt
+kotlin eller java eller gradle, suck
